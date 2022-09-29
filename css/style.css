@@ -1,0 +1,16 @@
+body{
+    /* height: 5000px; */
+}
+.navbar{
+    border-bottom:  5px solid #0098da;
+    position:fixed;
+    width: 100%;
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.548),rgba(0, 0, 0, 0.564)),
+    url(../images/home.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 200px;
+}
